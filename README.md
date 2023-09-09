@@ -1,2 +1,1 @@
-# Land-Acquistion-Power-BI
-Data Visualization in Power BI 
+In this dashboard, I have presented the total area of the different countries and their ranks according to their total area acquistion in total area, permanent crop area, arable land area etc. I have taken top 10 countries and basically compared them. 
